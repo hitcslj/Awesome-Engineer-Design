@@ -1,0 +1,9 @@
+@inproceedings{chen2019aerodynamic,
+    author={Chen, Wei and Chiu, Kevin and Fuge, Mark},
+    title={Aerodynamic Design Optimization and Shape Exploration using Generative Adversarial Networks},
+    booktitle={AIAA SciTech Forum},
+    year={2019},
+    month={Jan},
+    publisher={AIAA},
+    address={San Diego, USA}
+}

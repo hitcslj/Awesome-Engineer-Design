@@ -43,6 +43,7 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 <summary>Airfoil Parameterization & Shape Optimization</summary>
 
 - [An Airfoil Aerodynamic Parameters Calculation Method Based on Convolutional Neural Network](https://github.com/ziliHarvey/CNN-for-Airfoil/blob/master/Report.pdf), Liu et al., CMU-course project | [github](https://github.com/ziliHarvey/CNN-for-Airfoil)
+- [Aerodynamic Design Optimization and Shape Exploration using Generative Adversarial Networks](https://arc.aiaa.org/doi/10.2514/6.2019-2351), Chen et al., AIAA 2019 | [github](https://github.com/IDEALLab/airfoil-opt-gan) | [bibtex](./citations/airfoil-opt-gan.txt)
 - [Airfoil Design Parameterization and Optimization using Bézier Generative Adversarial Networks](https://arxiv.org/abs/2006.12496), Chen et al., AIAA 2020 | [github](https://github.com/IDEALLab/bezier-gan) | [bibtex](./citations/bezier-gan.txt)
 - [A B-Spline-based Generative Adversarial Network Model for Fast Interactive Airfoil Aerodynamic Optimization](https://arc.aiaa.org/doi/10.2514/6.2020-2128), Du et al., AIAA 2020  | [bibtex](./citations/bspline-gan.txt)
 - [CST-GANs: A Generative Adversarial Network Based on CST Parameterization for the Generation of Smooth Airfoils](https://ieeexplore.ieee.org/document/9987080), Lin et al., ICUS 2022  | [bibtex](./citations/cst-gan.txt)
