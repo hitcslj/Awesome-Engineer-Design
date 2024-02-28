@@ -1,0 +1,6 @@
+@article{kang2023compact,
+  title={Compact and Intuitive Airfoil Parameterization Method through Physics-aware Variational Autoencoder},
+  author={Kang, Yu-Eop and Lee, Dawoon and Yee, Kwanjung},
+  journal={arXiv preprint arXiv:2311.10921},
+  year={2023}
+}

@@ -1,0 +1,13 @@
+@article{XIE2024107505,
+title = {Parametric generative schemes with geometric constraints for encoding and synthesizing airfoils},
+journal = {Engineering Applications of Artificial Intelligence},
+volume = {128},
+pages = {107505},
+year = {2024},
+issn = {0952-1976},
+doi = {https://doi.org/10.1016/j.engappai.2023.107505},
+url = {https://www.sciencedirect.com/science/article/pii/S0952197623016895},
+author = {Hairun Xie and Jing Wang and Miao Zhang},
+keywords = {Deep learning, Parameterization method, Parametric generative schemes, Parametric airfoil, Geometric constraints},
+abstract = {The modern aerodynamic optimization has a strong demand for parametric methods with high levels of intuitiveness, flexibility, and representative accuracy, which cannot be fully achieved through traditional airfoil parametric techniques. In this paper, two deep learning-based generative schemes are proposed to effectively capture the complexity of the design space while satisfying specific constraints. 1. Soft-constrained scheme: a Conditional Variational Autoencoder-based model that directly incorporates geometric constraints as part of the network. 2. Hard-constrained scheme: a Variational Autoencoder-based model for generating diverse airfoils, with projection onto given constraints using Free Form Deformation-based techniques. According to the statistical results, the reconstructed airfoils are both accurate and smooth, without any need for additional filters. The soft-constrained scheme generates airfoils that exhibit slight deviations from the expected geometric constraints, yet still converge to the reference airfoil in both geometry space and objective space with some degree of distribution bias. In contrast, the hard-constrained scheme produces airfoils with a wider range of geometric diversity while strictly adhering to the geometric constraints. The corresponding distribution in the objective space is also more diverse, with isotropic uniformity around the reference point and no significant bias. These proposed airfoil parametric methods can break through the boundaries of training data in the objective space, providing higher quality samples for random sampling and improving the efficiency of optimization design.}
+}

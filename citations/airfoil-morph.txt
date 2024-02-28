@@ -1,0 +1,10 @@
+@article{sheikh2023airfoil,
+  title={Airfoil optimization using design-by-morphing},
+  author={Sheikh, Haris Moazam and Lee, Sangjoon and Wang, Jinge and Marcus, Philip S},
+  journal={Journal of Computational Design and Engineering},
+  volume={10},
+  number={4},
+  pages={1443--1459},
+  year={2023},
+  publisher={Oxford University Press}
+}

@@ -1,0 +1,11 @@
+@ARTICLE{9547003,
+  author={Wang, Yueqing and Deng, Liang and Wan, Yunbo and Yang, Zhigong and Yang, Wenxiang and Chen, Cheng and Zhao, Dan and Wang, Fang and Guo, Yang},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={An Intelligent Method for Predicting the Pressure Coefficient Curve of Airfoil-Based Conditional Generative Adversarial Networks}, 
+  year={2023},
+  volume={34},
+  number={7},
+  pages={3538-3552},
+  keywords={Automotive components;Aerodynamics;Shape;Computational modeling;Atmospheric modeling;Generative adversarial networks;Aircraft;Aerodynamic coefficient;airfoil;conditional generative adversarial network (cGAN);info-generative adversarial network (GAN);pressure coefficient},
+  doi={10.1109/TNNLS.2021.3111911}
+}

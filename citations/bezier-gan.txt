@@ -1,0 +1,10 @@
+@article{chen2020airfoil,
+  title={Airfoil design parameterization and optimization using b{\'e}zier generative adversarial networks},
+  author={Chen, Wei and Chiu, Kevin and Fuge, Mark D},
+  journal={AIAA journal},
+  volume={58},
+  number={11},
+  pages={4723--4735},
+  year={2020},
+  publisher={American Institute of Aeronautics and Astronautics}
+}
