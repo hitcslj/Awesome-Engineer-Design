@@ -1,0 +1,6 @@
+@article{yonekura2023airfoil,
+  title={Airfoil generation and feature extraction using the conditional VAE-WGAN-gp},
+  author={Yonekura, Kazuo and Tomori, Yuki and Suzuki, Katsuyuki},
+  journal={arXiv preprint arXiv:2311.05445},
+  year={2023}
+}

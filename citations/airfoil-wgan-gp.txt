@@ -1,0 +1,6 @@
+@article{yonekura2021inverse,
+  title={Inverse airfoil design method for generating varieties of smooth airfoils using conditional WGAN-gp},
+  author={Yonekura, Kazuo and Miyamoto, Nozomu and Suzuki, Katsuyuki},
+  journal={arXiv preprint arXiv:2110.00212},
+  year={2021}
+}

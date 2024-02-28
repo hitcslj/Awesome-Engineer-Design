@@ -1,0 +1,8 @@
+@misc{li2024meshagnostic,
+      title={Mesh-Agnostic Decoders for Supercritical Airfoil Prediction and Inverse Design}, 
+      author={Runze Li and Yufei Zhang and Haixin Chen},
+      year={2024},
+      eprint={2402.17299},
+      archivePrefix={arXiv},
+      primaryClass={physics.flu-dyn}
+}

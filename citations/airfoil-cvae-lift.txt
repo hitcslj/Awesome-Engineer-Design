@@ -1,0 +1,17 @@
+@article{10.1016/j.engappai.2021.104560,
+author = {Yonekura, Kazuo and Wada, Kazunari and Suzuki, Katsuyuki},
+title = {Generating various airfoils with required lift coefficients by combining NACA and Joukowski airfoils using conditional variational autoencoders},
+year = {2022},
+issue_date = {Feb 2022},
+publisher = {Pergamon Press, Inc.},
+address = {USA},
+volume = {108},
+number = {C},
+issn = {0952-1976},
+url = {https://doi.org/10.1016/j.engappai.2021.104560},
+doi = {10.1016/j.engappai.2021.104560},
+journal = {Eng. Appl. Artif. Intell.},
+month = {feb},
+numpages = {13},
+keywords = {Airfoil design, Variational autoencoder, Inverse problem, Design exploration}
+}

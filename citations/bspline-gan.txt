@@ -1,0 +1,11 @@
+@inproceedings{Du2020,
+  address = {Orlando, FL},
+  author = {Du, Xiaosong and He, Ping and Martins, Joaquim R. R. A.},
+  booktitle = {AIAA SciTech Forum},
+  doi = {10.2514/6.2020-2128},
+  keywords = {ank},
+  month = jan,
+  organization = {AIAA},
+  title = {A {B}-Spline-based Generative Adversarial Network Model for Fast Interactive Airfoil Aerodynamic Optimization},
+  year = {2020}
+}

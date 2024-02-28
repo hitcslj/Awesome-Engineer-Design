@@ -1,0 +1,6 @@
+@article{wang2021airfoil,
+  title={Airfoil GAN: Encoding and synthesizing airfoils for aerodynamic-aware shape optimization},
+  author={Wang, Yuyang and Shimada, Kenji and Farimani, Amir Barati},
+  journal={arXiv preprint arXiv:2101.04757},
+  year={2021}
+}

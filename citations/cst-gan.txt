@@ -1,0 +1,10 @@
+@INPROCEEDINGS{9987080,
+  author={Lin, Jinxing and Zhang, Chenliang and Xie, Xiaoye and Shi, Xingyu and Xu, Xiaoyu and Duan, Yanhui},
+  booktitle={2022 IEEE International Conference on Unmanned Systems (ICUS)}, 
+  title={CST-GANs: A Generative Adversarial Network Based on CST Parameterization for the Generation of Smooth Airfoils}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={600-605},
+  keywords={Geometry;Shape;Atmospheric modeling;Neural networks;Fitting;Optimization methods;Aerodynamics;Generative Adversarial Networks;CST;ASO},
+  doi={10.1109/ICUS55513.2022.9987080}}
