@@ -1,0 +1,12 @@
+@article{GreyJCDE2023,
+  author = {Grey, Zachary J and Doronina, Olga A and Glaws, Andrew},
+  title = "{Separable shape tensors for aerodynamic design}",
+  journal = {Journal of Computational Design and Engineering},
+  volume = {10},
+  number = {1},
+  pages = {468-487},
+  year = {2023},
+  month = {01},
+  doi = {10.1093/jcde/qwac140},
+  url = {https://doi.org/10.1093/jcde/qwac140},
+}
