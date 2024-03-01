@@ -1,0 +1,7 @@
+@inproceedings{chen2021deep,
+  title={Deep generative model for efficient 3D airfoil parameterization and generation},
+  author={Chen, Wei and Ramamurthy, Arun},
+  booktitle={AIAA Scitech 2021 Forum},
+  pages={1690},
+  year={2021}
+}
