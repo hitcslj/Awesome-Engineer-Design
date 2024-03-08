@@ -1,0 +1,8 @@
+@misc{wang2024mechanisminformed,
+      title={A mechanism-informed reinforcement learning framework for shape optimization of airfoils}, 
+      author={Jingfeng Wang and Guanghui Hu},
+      year={2024},
+      eprint={2403.04329},
+      archivePrefix={arXiv},
+      primaryClass={math.NA}
+}
