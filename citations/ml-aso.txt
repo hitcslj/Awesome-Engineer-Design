@@ -1,0 +1,9 @@
+@article{li2022machine,
+  title={Machine learning in aerodynamic shape optimization},
+  author={Li, Jichao and Du, Xiaosong and Martins, Joaquim RRA},
+  journal={Progress in Aerospace Sciences},
+  volume={134},
+  pages={100849},
+  year={2022},
+  publisher={Elsevier}
+}

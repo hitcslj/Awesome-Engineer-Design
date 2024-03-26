@@ -21,7 +21,7 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 
 ## Survey
 
-> TODO
+- [Machine Learning in Aerodynamic Shape Optimization](https://arxiv.org/abs/2202.07141), Li et al., Prog. Aerosp. Sci 2022 | [bibtex](./citations/ml-aso.txt)
 
 ## Papers
 
