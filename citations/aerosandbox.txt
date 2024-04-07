@@ -1,0 +1,6 @@
+@mastersthesis{aerosandbox,
+    title = {AeroSandbox: A Differentiable Framework for Aircraft Design Optimization},
+    author = {Sharpe, Peter D.},
+    school = {Massachusetts Institute of Technology},
+    year = {2021}
+}

@@ -92,6 +92,7 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 ## Implementations
 
 - [XFoil](https://web.mit.edu/drela/Public/web/xfoil/), MIT
+- [AeroSandbox](https://github.com/peterdsharpe/AeroSandbox), Peter D. | [bibtex](./citations/aerosandbox.txt)
 
 
 ## License 
