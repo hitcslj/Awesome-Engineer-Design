@@ -55,6 +55,7 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 - [Deep Generative Model for Efficient 3D Airfoil Parameterization and Generation](https://arxiv.org/abs/2101.02744), Chen et al., AIAA 2021  | [bibtex](./citations/airfoil-3d.txt)
 - [Parametric Generative Schemes with Geometric Constraints for Encoding and Synthesizing Airfoils](https://arxiv.org/abs/2205.02458), Xie et al., EAAI 2024  | [bibtex](./citations/airfoil-geo.txt)
 - [An Intelligent Method for Predicting the Pressure Coefficient Curve of Airfoil-Based Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/document/9547003/), Wang et al., TNNLS 2023 | [bibtex](./citations/airfoil-pressure.txt)
+- [Airfoil Optimization using Design-by-Morphing](https://arxiv.org/abs/2207.11448), Sheikh et al., JCDE 2023 | [bibtex](./citations/airfoil-morph.txt)
 - [Compact and Intuitive Airfoil Parameterization Method through Physics-aware Variational Autoencoder](https://arxiv.org/abs/2311.10921), Kang et al., arxiv 2023 | [bibtex](./citations/airfoil-pvae.txt)
 - [A solver for subsonic flow around airfoils based on physics-informed neural networks and mesh transformation](https://arxiv.org/abs/2401.08705), Cao et al., PoF 2024 | [github](https://github.com/cao-wenbo/nnfoil) | [bibtex](./citations/nnfoil.txt)
 - [A mechanism-informed reinforcement learning framework for shape optimization of airfoils](https://arxiv.org/abs/2403.04329), Wang et al., arxiv 2024 | [bibtex](./citations/airfoil-RL.txt)
@@ -67,7 +68,7 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 <details open>
 <summary>Airfoil Editing</summary>
 
-- [Airfoil Optimization using Design-by-Morphing](https://arxiv.org/abs/2207.11448), Sheikh et al., JCDE 2023 | [bibtex](./citations/airfoil-morph.txt)
+> TODO
 
 </details>
 
