@@ -1,0 +1,10 @@
+@article{regenwetter2022deep,
+  title={Deep generative models in engineering design: A review},
+  author={Regenwetter, Lyle and Nobari, Amin Heyrani and Ahmed, Faez},
+  journal={Journal of Mechanical Design},
+  volume={144},
+  number={7},
+  pages={071704},
+  year={2022},
+  publisher={American Society of Mechanical Engineers}
+}
