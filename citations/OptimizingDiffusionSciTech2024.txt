@@ -1,0 +1,7 @@
+@article{Diniz2024OptimizingDT,
+  title={Optimizing Diffusion to Diffuse Optimal Designs},
+  author={Cashen Diniz and Mark D. Fuge},
+  journal={AIAA SCITECH 2024 Forum},
+  year={2024},
+  url={https://api.semanticscholar.org/CorpusID:267324257}
+}

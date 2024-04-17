@@ -57,6 +57,7 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 - [Compact and Intuitive Airfoil Parameterization Method through Physics-aware Variational Autoencoder](https://arxiv.org/abs/2311.10921), Kang et al., arxiv 2023 | [bibtex](./citations/airfoil-pvae.txt)
 - [A solver for subsonic flow around airfoils based on physics-informed neural networks and mesh transformation](https://arxiv.org/abs/2401.08705), Cao et al., PoF 2024 | [github](https://github.com/cao-wenbo/nnfoil) | [bibtex](./citations/nnfoil.txt)
 - [A mechanism-informed reinforcement learning framework for shape optimization of airfoils](https://arxiv.org/abs/2403.04329), Wang et al., arxiv 2024 | [bibtex](./citations/airfoil-RL.txt)
+- [Optimizing Diffusion to Diffuse Optimal Designs](https://arc.aiaa.org/doi/10.2514/6.2024-2013), Diniz et al., AIAA 2024 | [github](https://github.com/IDEALLab/OptimizingDiffusionSciTech2024) | [bibtex](./citations/OptimizingDiffusionSciTech2024.txt)
 
 
 </details>
