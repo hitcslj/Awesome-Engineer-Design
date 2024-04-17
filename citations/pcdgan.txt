@@ -1,0 +1,7 @@
+@inproceedings{heyrani2021pcdgan,
+  title={Pcdgan: A continuous conditional diverse generative adversarial network for inverse design},
+  author={Heyrani Nobari, Amin and Chen, Wei and Ahmed, Faez},
+  booktitle={Proceedings of the 27th ACM SIGKDD conference on knowledge discovery \& data mining},
+  pages={606--616},
+  year={2021}
+}

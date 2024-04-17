@@ -31,6 +31,7 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 <summary>Airfoil Inverse Design</summary>
 
 - [Data-driven design exploration method using conditional variational autoencoder for airfoil design](https://link.springer.com/article/10.1007/s00158-021-02851-0), Yonekura et al., SAMO 2021 | [bibtex](./citations/airfoil-cvae.txt)
+- [PcDGAN: A Continuous Conditional Diverse Generative Adversarial Network For Inverse Design](https://arxiv.org/abs/2106.03620), Nobari et al., SIGKDD  2021 | [github](https://github.com/pcdgan/PcDGAN) | [bibtex](./citations/pcdgan.txt)
 - [Generating various airfoil shapes with required lift coefficient using conditional variational autoencoders](https://arxiv.org/abs/2106.09901), Yonekura et al., EAAI 2022 | [bibtex](./citations/airfoil-cvae-lift.txt)
 - [Inverse airfoil design method for generating varieties of smooth airfoils using conditional WGAN-gp](https://arxiv.org/abs/2110.00212), Yonekura et al., SAMO 2022 | [bibtex](./citations/airfoil-wgan-gp.txt)
 - [Inverse design of two-dimensional airfoils using conditional generative models and surrogate log-likelihoods](https://asmedigitalcollection.asme.org/mechanicaldesign/article/144/2/021712/1122916), Chen et al., JMD 2022 | [bibtex](./citations/airfoil-cgan-sur.txt)
