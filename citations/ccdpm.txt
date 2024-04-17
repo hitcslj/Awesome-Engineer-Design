@@ -1,0 +1,7 @@
+@inproceedings{Zhao2024CcDPMAC,
+  title={CcDPM: A Continuous Conditional Diffusion Probabilistic Model for Inverse Design},
+  author={Yanxuan Zhao and Peng Zhang and Guopeng Sun and Zhigong Yang and Jianqiang Chen and Yueqing Wang},
+  booktitle={AAAI Conference on Artificial Intelligence},
+  year={2024},
+  url={https://api.semanticscholar.org/CorpusID:268708225}
+}

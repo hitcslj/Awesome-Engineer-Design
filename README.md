@@ -37,6 +37,7 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 - [Airfoil generation and feature extraction using the conditional VAE-WGAN-gp](https://arxiv.org/abs/2311.05445), Yonekura et al., arxiv 2023 | [bibtex](./citations/airfoil-vae-wgan-gp.txt)
 - [CinDM: Compositional Generative Inverse Design](https://arxiv.org/abs/2401.13171), Wu et al., ICLR 2024 | [github](https://github.com/AI4Science-WestlakeU/cindm) | [bibtex](./citations/cindm.txt)
 - [Mesh-Agnostic Decoders for Supercritical Airfoil Prediction and Inverse Design](https://arxiv.org/abs/2402.17299), Li et al., arxiv 2024 | [bibtex](./citations/super-airfoil.txt)
+- [CcDPM: A Continuous Conditional Diffusion Probabilistic Model for Inverse Design](https://ojs.aaai.org/index.php/AAAI/article/view/29647), Zhao et al., AAAI 2024 | [bibtex](./citations/ccdpm.txt)
 
 </details>
 
