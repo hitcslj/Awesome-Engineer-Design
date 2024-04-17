@@ -1,0 +1,6 @@
+@inproceedings{maze2022,
+     author={François Mazé and Faez Ahmed},
+     title={Diffusion Models Beat GANs on Topology Optimization},
+     booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+    year={2023},
+}

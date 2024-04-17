@@ -71,6 +71,15 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 
 </details>
 
+
+<details open>
+<summary>Other engineer design</summary>
+
+- [Diffusion Models Beat GANs on Topology Optimization](https://arxiv.org/abs/2208.09591), Mazé et al., AAAI 2023 | [github](https://github.com/francoismaze/topodiff) | [bibtex](./citations/topodiff.txt)
+
+</details>
+
+
  
 
 
