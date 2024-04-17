@@ -83,8 +83,11 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 > TODO
 
 
-## Company
-> TODO
+## Company & Team
+
+- [Design, Engineering And Learning (IDEAL) Lab](https://ideal.umd.edu/), UMD | [github](https://github.com/IDEALLAB)
+
+
 
 
 
