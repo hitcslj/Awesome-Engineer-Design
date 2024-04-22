@@ -1,0 +1,7 @@
+@article{Wang2021AnID,
+  title={An inverse design method for supercritical airfoil based on conditional generative models},
+  author={Jing Wang and Runze Li and Cheng He and Haixin Chen and Ran Cheng and Chen Zhai and Miao Zhang},
+  journal={Chinese Journal of Aeronautics},
+  year={2021},
+  url={https://api.semanticscholar.org/CorpusID:233640024}
+}
