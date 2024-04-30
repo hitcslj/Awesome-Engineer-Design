@@ -1,0 +1,9 @@
+@article{chen2021mo,
+     title={MO-PaDGAN: Reparameterizing Engineering Designs for augmented multi-objective optimization},
+     author={Chen, Wei and Ahmed, Faez},
+     journal={Applied Soft Computing},
+     volume={113},
+     pages={107909},
+     year={2021},
+     publisher={Elsevier}
+   }
