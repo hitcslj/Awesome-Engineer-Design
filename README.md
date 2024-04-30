@@ -16,7 +16,7 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 - [Papers](#papers)
 - [Benchmarks and Datasets](#Benchmarks-and-Datasets)
 - [Talks](#talks)
-- [Company](#company)
+- [Company, Team and Experts](#Company&Team&Experts)
 - [Implementations](#implementations)
 
 ## Survey
@@ -103,16 +103,11 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 > TODO
 
 
-## Company & Team
+## Company&Team&Experts
 
 - [Design Computation and Digital Engineering (DeCoDE) Lab](https://decode.mit.edu/), MIT | 
 - [Design, Engineering And Learning (IDEAL) Lab](https://ideal.umd.edu/), UMD | [github](https://github.com/IDEALLAB)
-
-
-## Experts
-
 - [Wei Chen](https://scholar.google.com/citations?hl=en&user=UlTyOWMAAAAJ&view_op=list_works&sortby=pubdate)
-
 
 
 ## Implementations
