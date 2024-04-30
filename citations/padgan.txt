@@ -1,0 +1,8 @@
+@article{chen2020padgan,
+  title={PaDGAN: Learning to Generate High-Quality Novel Designs},
+  author={Chen, Wei and Ahmed, Faez},
+  journal={Journal of Mechanical Design},
+  volume={143},
+  number={3},
+  publisher={American Society of Mechanical Engineers Digital Collection}
+}

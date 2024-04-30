@@ -30,6 +30,7 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 <details open>
 <summary>Airfoil Inverse Design</summary>
 
+- [PaDGAN: A Generative Adversarial Network for Performance Augmented Diverse Designs](https://arxiv.org/abs/2002.11304), Chen et al., IDETC  2020 | [github](https://github.com/wchen459/PaDGAN) | [bibtex](./citations/padgan.txt)
 - [Data-driven design exploration method using conditional variational autoencoder for airfoil design](https://link.springer.com/article/10.1007/s00158-021-02851-0), Yonekura et al., SAMO 2021 | [bibtex](./citations/airfoil-cvae.txt)
 - [PcDGAN: A Continuous Conditional Diverse Generative Adversarial Network For Inverse Design](https://arxiv.org/abs/2106.03620), Nobari et al., SIGKDD  2021 | [github](https://github.com/pcdgan/PcDGAN) | [bibtex](./citations/pcdgan.txt)
 - [An inverse design method for supercritical airfoil based on conditional generative models](https://www.semanticscholar.org/paper/An-inverse-design-method-for-supercritical-airfoil-Wang-Li/e03d299d94ab436c64e07e57e6e09e913d1a22c8), Wang et al., Chinese Journal of Aeronautics
