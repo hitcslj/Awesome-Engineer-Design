@@ -1,0 +1,10 @@
+@article{chen2019hgan,
+    author={Chen, Wei and Fuge, Mark},
+    title={Synthesizing Designs with Inter-part Dependencies Using Hierarchical Generative Adversarial Networks},
+    journal={Journal of Mechanical Design},
+    volume={141},
+    number={11},
+    pages={111403},
+    year={2019},
+    publisher={American Society of Mechanical Engineers}
+}

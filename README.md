@@ -21,7 +21,7 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 
 ## Survey
 
-- [Deep Generative Models in Engineering Design: A Review](https://arxiv.org/abs/2110.10863), Regenwetter et al., JMD2022 | [bibtex](./citations/deepED.txt)
+- [Deep Generative Models in Engineering Design: A Review](https://arxiv.org/abs/2110.10863), Regenwetter et al., JMD 2022 | [bibtex](./citations/deepED.txt)
 - [Machine Learning in Aerodynamic Shape Optimization](https://arxiv.org/abs/2202.07141), Li et al., Prog. Aerosp. Sci 2022 | [bibtex](./citations/ml-aso.txt)
 
 ## Papers
@@ -30,6 +30,7 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 <details open>
 <summary>Airfoil Inverse Design</summary>
 
+- [Synthesizing Designs With Inter-Part Dependencies Using Hierarchical Generative Adversarial Networks](https://ideal.umd.edu/assets/pdfs/chen_hgan_jmd_2019.pdf), Chen et al., JMD  2019 | [github](https://github.com/IDEALLab/hgan_jmd_2019) | [bibtex](./citations/hgan.txt)
 - [PaDGAN: A Generative Adversarial Network for Performance Augmented Diverse Designs](https://arxiv.org/abs/2002.11304), Chen et al., IDETC  2020 | [github](https://github.com/wchen459/PaDGAN) | [bibtex](./citations/padgan.txt)
 - [MO-PaDGAN for Design Reparameterization and Optimization](https://arxiv.org/abs/2009.07110), Chen et al., Applied Soft Computing  2021 | [github](https://github.com/wchen459/MO-PaDGAN-Optimization) | [bibtex](./citations/mo-padgan.txt)
 - [Data-driven design exploration method using conditional variational autoencoder for airfoil design](https://link.springer.com/article/10.1007/s00158-021-02851-0), Yonekura et al., SAMO 2021 | [bibtex](./citations/airfoil-cvae.txt)
