@@ -78,6 +78,14 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 
 </details>
 
+<details open>
+<summary>Airfoil aerodynamic performace prediction</summary>
+
+- [An extensible Benchmarking Graph-Mesh dataset for studying Steady-State Incompressible Navier-Stokes Equations](https://arxiv.org/abs/2206.14709), Bonnet et al., ICLRW 2022 | [github](https://github.com/Extrality/ICLR_NACA_Dataset_V0) | [bibtex](./citations/extensible.txt)
+- [AirfRANS: High Fidelity Computational Fluid Dynamics Dataset for Approximating Reynolds-Averaged Navier-Stokes Solutions](https://arxiv.org/abs/2212.07564), Bonnet et al., NeurIPS 2022 | [github](https://github.com/Extrality/AirfRANS) | [bibtex](./citations/airfRANS.txt)
+
+</details>
+
 
 <details open>
 <summary>Other engineer design</summary>
@@ -109,6 +117,7 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 - [Design Computation and Digital Engineering (DeCoDE) Lab](https://decode.mit.edu/), MIT | 
 - [Design, Engineering And Learning (IDEAL) Lab](https://ideal.umd.edu/), UMD | [github](https://github.com/IDEALLAB)
 - [Wei Chen](https://scholar.google.com/citations?hl=en&user=UlTyOWMAAAAJ&view_op=list_works&sortby=pubdate)
+- [Extrality](https://github.com/Extrality)
 
 
 ## Implementations
