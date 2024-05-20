@@ -80,9 +80,12 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 
 <details open>
 <summary>Airfoil aerodynamic performace prediction</summary>
+> 根据求解方式，可分为PINNs（NN解方程）and data-drive的surrogte model. 后者根据输出的类型，可以分为直接输出Cl/Cd（类似分类）, 和输出flow(airfoil周围的场,dense prediction).
 
 - [An extensible Benchmarking Graph-Mesh dataset for studying Steady-State Incompressible Navier-Stokes Equations](https://arxiv.org/abs/2206.14709), Bonnet et al., ICLRW 2022 | [github](https://github.com/Extrality/ICLR_NACA_Dataset_V0) | [bibtex](./citations/extensible.txt)
 - [AirfRANS: High Fidelity Computational Fluid Dynamics Dataset for Approximating Reynolds-Averaged Navier-Stokes Solutions](https://arxiv.org/abs/2212.07564), Bonnet et al., NeurIPS 2022 | [github](https://github.com/Extrality/AirfRANS) | [bibtex](./citations/airfRANS.txt)
+- [Fast aerodynamics prediction of laminar airfoils based on deep attention network](https://pubs.aip.org/aip/pof/article-abstract/35/3/037127/2882158), Zuo et al., PoF 2023 | [github](https://github.com/zuokuijun/vitAirfoilEncoder) | [bibtex](./citations/DAN.txt)
+- [Incorporating Riemannian Geometric Features for Learning Coefficient of Pressure Distributions on Airplane Wings](https://arxiv.org/abs/2401.09452), Hu et al., arXiv 2024 | [github](https://github.com/huliwei123/Incorporating-Riemannian-Geometric-Features-for-Learning-CP-Distributions-on-Airplane-Wings) |[bibtex](./citations/incorporating.txt)
 
 </details>
 

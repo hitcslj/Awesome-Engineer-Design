@@ -1,0 +1,9 @@
+@article{zuo2023fast,
+  title={Fast aerodynamics prediction of laminar airfoils based on deep attention network},
+  author={Zuo, Kuijun and Ye, Zhengyin and Zhang, Weiwei and Yuan, Xianxu and Zhu, Linyang},
+  journal={Physics of Fluids},
+  volume={35},
+  number={3},
+  year={2023},
+  publisher={AIP Publishing}
+}

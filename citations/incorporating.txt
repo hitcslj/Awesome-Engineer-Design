@@ -1,0 +1,6 @@
+@article{hu2023incorporating,
+  title={Incorporating Riemannian Geometric Features for Learning Coefficient of Pressure Distributions on Airplane Wings},
+  author={Hu, Liwei and Wang, Wenyong and Xiang, Yu and Sommer, Stefan},
+  journal={arXiv preprint arXiv:2401.09452},
+  year={2023}
+}
