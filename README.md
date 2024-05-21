@@ -53,7 +53,6 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 <details open>
 <summary>Airfoil Parameterization & Shape Optimization</summary>
 
-- [An Airfoil Aerodynamic Parameters Calculation Method Based on Convolutional Neural Network](https://github.com/ziliHarvey/CNN-for-Airfoil/blob/master/Report.pdf), Liu et al., CMU-course project | [github](https://github.com/ziliHarvey/CNN-for-Airfoil)
 - [Aerodynamic Design Optimization and Shape Exploration using Generative Adversarial Networks](https://arc.aiaa.org/doi/10.2514/6.2019-2351), Chen et al., AIAA 2019 | [github](https://github.com/IDEALLab/airfoil-opt-gan) | [bibtex](./citations/airfoil-opt-gan.txt)
 - [Airfoil Design Parameterization and Optimization using Bézier Generative Adversarial Networks](https://arxiv.org/abs/2006.12496), Chen et al., AIAA 2020 | [github](https://github.com/IDEALLab/bezier-gan) | [bibtex](./citations/bezier-gan.txt)
 - [A B-Spline-based Generative Adversarial Network Model for Fast Interactive Airfoil Aerodynamic Optimization](https://arc.aiaa.org/doi/10.2514/6.2020-2128), Du et al., AIAA 2020  | [bibtex](./citations/bspline-gan.txt)
@@ -64,7 +63,6 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 - [An Intelligent Method for Predicting the Pressure Coefficient Curve of Airfoil-Based Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/document/9547003/), Wang et al., TNNLS 2023 | [bibtex](./citations/airfoil-pressure.txt)
 - [Airfoil Optimization using Design-by-Morphing](https://arxiv.org/abs/2207.11448), Sheikh et al., JCDE 2023 | [bibtex](./citations/airfoil-morph.txt)
 - [Compact and Intuitive Airfoil Parameterization Method through Physics-aware Variational Autoencoder](https://arxiv.org/abs/2311.10921), Kang et al., arxiv 2023 | [bibtex](./citations/airfoil-pvae.txt)
-- [A solver for subsonic flow around airfoils based on physics-informed neural networks and mesh transformation](https://arxiv.org/abs/2401.08705), Cao et al., PoF 2024 | [github](https://github.com/cao-wenbo/nnfoil) | [bibtex](./citations/nnfoil.txt)
 - [A mechanism-informed reinforcement learning framework for shape optimization of airfoils](https://arxiv.org/abs/2403.04329), Wang et al., arxiv 2024 | [bibtex](./citations/airfoil-RL.txt)
 - [Optimizing Diffusion to Diffuse Optimal Designs](https://arc.aiaa.org/doi/10.2514/6.2024-2013), Diniz et al., AIAA 2024 | [github](https://github.com/IDEALLab/OptimizingDiffusionSciTech2024) | [bibtex](./citations/OptimizingDiffusionSciTech2024.txt)
 
@@ -85,10 +83,11 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 > Based on the solution approach, the methods can be divided into PINNs (Neural Networks for solving equations) and data-driven surrogate models. The latter can be further categorized based on the type of output: direct output of Cl/Cd (similar to classification) or output of the flow field around the airfoil (dense prediction, similar to segmentation).
 
 
-
+- [An Airfoil Aerodynamic Parameters Calculation Method Based on Convolutional Neural Network](https://github.com/ziliHarvey/CNN-for-Airfoil/blob/master/Report.pdf), Liu et al., CMU-course project | [github](https://github.com/ziliHarvey/CNN-for-Airfoil)
 - [An extensible Benchmarking Graph-Mesh dataset for studying Steady-State Incompressible Navier-Stokes Equations](https://arxiv.org/abs/2206.14709), Bonnet et al., ICLRW 2022 | [github](https://github.com/Extrality/ICLR_NACA_Dataset_V0) | [bibtex](./citations/extensible.txt)
 - [AirfRANS: High Fidelity Computational Fluid Dynamics Dataset for Approximating Reynolds-Averaged Navier-Stokes Solutions](https://arxiv.org/abs/2212.07564), Bonnet et al., NeurIPS 2022 | [github](https://github.com/Extrality/AirfRANS) | [bibtex](./citations/airfRANS.txt)
 - [Fast aerodynamics prediction of laminar airfoils based on deep attention network](https://pubs.aip.org/aip/pof/article-abstract/35/3/037127/2882158), Zuo et al., PoF 2023 | [github](https://github.com/zuokuijun/vitAirfoilEncoder) | [bibtex](./citations/DAN.txt)
+- [A solver for subsonic flow around airfoils based on physics-informed neural networks and mesh transformation](https://arxiv.org/abs/2401.08705), Cao et al., PoF 2024 | [github](https://github.com/cao-wenbo/nnfoil) | [bibtex](./citations/nnfoil.txt)
 - [Incorporating Riemannian Geometric Features for Learning Coefficient of Pressure Distributions on Airplane Wings](https://arxiv.org/abs/2401.09452), Hu et al., arXiv 2024 | [github](https://github.com/huliwei123/Incorporating-Riemannian-Geometric-Features-for-Learning-CP-Distributions-on-Airplane-Wings) |[bibtex](./citations/incorporating.txt)
 
 </details>
@@ -131,6 +130,7 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 
 - [XFoil](https://web.mit.edu/drela/Public/web/xfoil/), MIT
 - [AeroSandbox](https://github.com/peterdsharpe/AeroSandbox), Peter D. | [bibtex](./citations/aerosandbox.txt)
+- [adflow](https://github.com/mdolab/adflow), Mader et al., JAIS 2020 | [bibtex](./citations/adflow.txt)
 
 ## Notes
 

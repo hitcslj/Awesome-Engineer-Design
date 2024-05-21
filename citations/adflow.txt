@@ -1,0 +1,7 @@
+@article{Mader2020a,
+    author = {Charles A. Mader and Gaetan K. W. Kenway and Anil Yildirim and Joaquim R. R. A. Martins},
+    doi = {10.2514/1.I010796},
+    journal = {Journal of Aerospace Information Systems},
+    title = {{ADflow}---An open-source computational fluid dynamics solver for aerodynamic and multidisciplinary optimization},
+    year = {2020}
+}
