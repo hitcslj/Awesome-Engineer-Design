@@ -18,6 +18,7 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 - [Talks](#talks)
 - [Company, Team and Experts](#Company&Team&Experts)
 - [Implementations](#implementations)
+- [Notes](#notes)
 
 ## Survey
 
@@ -80,7 +81,10 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 
 <details open>
 <summary>Airfoil aerodynamic performace prediction</summary>
-> 根据求解方式，可分为PINNs（NN解方程）and data-drive的surrogte model. 后者根据输出的类型，可以分为直接输出Cl/Cd（类似分类）, 和输出flow(airfoil周围的场,dense prediction).
+
+> Based on the solution approach, the methods can be divided into PINNs (Neural Networks for solving equations) and data-driven surrogate models. The latter can be further categorized based on the type of output: direct output of Cl/Cd (similar to classification) or output of the flow field around the airfoil (dense prediction, similar to segmentation).
+
+
 
 - [An extensible Benchmarking Graph-Mesh dataset for studying Steady-State Incompressible Navier-Stokes Equations](https://arxiv.org/abs/2206.14709), Bonnet et al., ICLRW 2022 | [github](https://github.com/Extrality/ICLR_NACA_Dataset_V0) | [bibtex](./citations/extensible.txt)
 - [AirfRANS: High Fidelity Computational Fluid Dynamics Dataset for Approximating Reynolds-Averaged Navier-Stokes Solutions](https://arxiv.org/abs/2212.07564), Bonnet et al., NeurIPS 2022 | [github](https://github.com/Extrality/AirfRANS) | [bibtex](./citations/airfRANS.txt)
@@ -119,7 +123,7 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 
 - [Design Computation and Digital Engineering (DeCoDE) Lab](https://decode.mit.edu/), MIT | 
 - [Design, Engineering And Learning (IDEAL) Lab](https://ideal.umd.edu/), UMD | [github](https://github.com/IDEALLAB)
-- [Wei Chen](https://scholar.google.com/citations?hl=en&user=UlTyOWMAAAAJ&view_op=list_works&sortby=pubdate)
+- [Wei Chen](https://scholar.google.com/citations?hl=en&user=UlTyOWMAAAAJ&view_op=list_works&sortby=pubdate), UMD
 - [Extrality](https://github.com/Extrality)
 
 
@@ -128,6 +132,9 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 - [XFoil](https://web.mit.edu/drela/Public/web/xfoil/), MIT
 - [AeroSandbox](https://github.com/peterdsharpe/AeroSandbox), Peter D. | [bibtex](./citations/aerosandbox.txt)
 
+## Notes
+
+- [Zuokui Jun's Blog](https://zuokuijun.github.io/#/), NWPU
 
 ## License 
 Awesome Aifoil Design is released under the [MIT license](./LICENSE).
