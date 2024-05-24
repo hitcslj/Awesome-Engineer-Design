@@ -134,6 +134,7 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 
 ## Notes
 
+- [AirfoilDesign](http://aero-comlab.stanford.edu/aa200b/lect_notes/AirfoilDesign.pdf), Stanford
 - [Zuokui Jun's Blog](https://zuokuijun.github.io/#/), NWPU
 
 ## License 
