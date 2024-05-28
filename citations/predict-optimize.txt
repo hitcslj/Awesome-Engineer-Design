@@ -1,0 +1,7 @@
+@article{Liu2022PredictionAO,
+  title={Prediction and optimization of airfoil aerodynamic performance using deep neural network coupled Bayesian method},
+  author={Ruo-Lin Liu and Yue Hua and Zhi Zhou and Yubai Li and Wei-Tao Wu and Nadine Aubry},
+  journal={Physics of Fluids},
+  year={2022},
+  url={https://api.semanticscholar.org/CorpusID:253475311}
+}

@@ -84,6 +84,7 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 
 
 - [An Airfoil Aerodynamic Parameters Calculation Method Based on Convolutional Neural Network](https://github.com/ziliHarvey/CNN-for-Airfoil/blob/master/Report.pdf), Liu et al., CMU-course project | [github](https://github.com/ziliHarvey/CNN-for-Airfoil)
+- [Prediction and optimization of airfoil aerodynamic performance using deep neural network coupled Bayesian method](https://pubs.aip.org/aip/pof/article-abstract/34/11/117116/2848801), Liu et al., PoF 2022 | [bibtex](./citations/predict-optimize.txt)
 - [An extensible Benchmarking Graph-Mesh dataset for studying Steady-State Incompressible Navier-Stokes Equations](https://arxiv.org/abs/2206.14709), Bonnet et al., ICLRW 2022 | [github](https://github.com/Extrality/ICLR_NACA_Dataset_V0) | [bibtex](./citations/extensible.txt)
 - [AirfRANS: High Fidelity Computational Fluid Dynamics Dataset for Approximating Reynolds-Averaged Navier-Stokes Solutions](https://arxiv.org/abs/2212.07564), Bonnet et al., NeurIPS 2022 | [github](https://github.com/Extrality/AirfRANS) | [bibtex](./citations/airfRANS.txt)
 - [Fast aerodynamics prediction of laminar airfoils based on deep attention network](https://pubs.aip.org/aip/pof/article-abstract/35/3/037127/2882158), Zuo et al., PoF 2023 | [github](https://github.com/zuokuijun/vitAirfoilEncoder) | [bibtex](./citations/DAN.txt)
