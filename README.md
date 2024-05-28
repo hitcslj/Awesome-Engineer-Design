@@ -136,6 +136,7 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 - [AeroSandbox](https://github.com/peterdsharpe/AeroSandbox), Peter D. | [bibtex](./citations/aerosandbox.txt)
 - [adflow](https://github.com/mdolab/adflow), Mader et al., JAIS 2020 | [bibtex](./citations/adflow.txt)
 - [airfoil-interpolation](https://github.com/IDEALLab/airfoil-interpolation), Chen 
+- [Anton: generative design framework](https://github.com/blender-for-science/anton)
 
 ## Notes
 
