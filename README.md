@@ -127,6 +127,7 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 - [Design, Engineering And Learning (IDEAL) Lab](https://ideal.umd.edu/), UMD | [github](https://github.com/IDEALLAB)
 - [Wei Chen](https://scholar.google.com/citations?hl=en&user=UlTyOWMAAAAJ&view_op=list_works&sortby=pubdate), UMD
 - [Extrality](https://github.com/Extrality)
+- [AutoDesk](https://www.autodesk.com/design-make/emerging-tech/generative-design)
 
 
 ## Implementations
