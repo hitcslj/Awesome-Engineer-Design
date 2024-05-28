@@ -1,0 +1,8 @@
+@article{Snapp2024SuperlativeME,
+  title={Superlative mechanical energy absorbing efficiency discovered through self-driving lab-human partnership},
+  author={Kelsey L. Snapp and Benjamin Verdier and Aldair E. Gongora and Samuel Silverman and Adedire D. Adesiji and Elise F Morgan and Timothy J. Lawton and Emily Whiting and Keith A Brown},
+  journal={Nature Communications},
+  year={2024},
+  volume={15},
+  url={https://api.semanticscholar.org/CorpusID:269948540}
+}

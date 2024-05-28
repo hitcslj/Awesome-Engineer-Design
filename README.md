@@ -99,7 +99,8 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 - [CreativeGAN: Editing Generative Adversarial Networks for Creative Design Synthesis](https://arxiv.org/abs/2103.06242), Nobari et al., IDETC-CIE 2021 | [github](https://github.com/mfrashad/creativegan) | [bibtex](./citations/creativegan.txt)
 - [Diffusion Models Beat GANs on Topology Optimization](https://arxiv.org/abs/2208.09591), Mazé et al., AAAI 2023 | [github](https://github.com/francoismaze/topodiff) | [bibtex](./citations/topodiff.txt)
 - [Continuous Conditional Generative Adversarial Networks: Novel Empirical Losses and Label Input Mechanisms](https://ieeexplore.ieee.org/document/9983478), Ding et al., TPAMI 2023 | [github](https://github.com/UBCDingXin/improved_CcGAN) | [bibtex](./citations/improved_CcGAN.txt)
-- [Using Graph Neural Networks for Additive Manufacturing](https://developer.nvidia.com/blog/using-graph-neural-networks-for-additive-manufacturing/), Jain et al.,
+- [Using Graph Neural Networks for Additive Manufacturing](https://developer.nvidia.com/blog/using-graph-neural-networks-for-additive-manufacturing/), Jain et al., NVIDIA
+- [Superlative mechanical energy absorbing efficiency discovered through self-driving lab-human partnership](https://www.nature.com/articles/s41467-024-48534-4), Snapp et al., Nature Communications 2024 | [bibtex](./citations/superlative_me.txt)
 
 </details>
 
