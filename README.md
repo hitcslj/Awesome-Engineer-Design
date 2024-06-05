@@ -102,6 +102,7 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 - [Continuous Conditional Generative Adversarial Networks: Novel Empirical Losses and Label Input Mechanisms](https://ieeexplore.ieee.org/document/9983478), Ding et al., TPAMI 2023 | [github](https://github.com/UBCDingXin/improved_CcGAN) | [bibtex](./citations/improved_CcGAN.txt)
 - [Using Graph Neural Networks for Additive Manufacturing](https://developer.nvidia.com/blog/using-graph-neural-networks-for-additive-manufacturing/), Jain et al., NVIDIA
 - [Superlative mechanical energy absorbing efficiency discovered through self-driving lab-human partnership](https://www.nature.com/articles/s41467-024-48534-4), Snapp et al., Nature Communications 2024 | [bibtex](./citations/superlative_me.txt)
+- [DfAM: Leveraging Generative Design in Design for Additive Manufacturing](https://mightybucket.github.io/projects/2021/05/31/masters-dissertation.html), Zhang et al. Master’s Project
 
 </details>
 
