@@ -1,0 +1,7 @@
+@book{thuerey2021pbdl,
+  title={Physics-based Deep Learning},
+  author={Nils Thuerey and Philipp Holl and Maximilian Mueller and Patrick Schnell and Felix Trost and Kiwon Um},
+  url={https://physicsbaseddeeplearning.org},
+  year={2021},
+  publisher={WWW}
+}

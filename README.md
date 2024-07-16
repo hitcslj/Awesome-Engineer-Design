@@ -104,7 +104,7 @@ A curated list of awesome engineer design papers, inspired by [awesome-aigc-3d](
 - [Superlative mechanical energy absorbing efficiency discovered through self-driving lab-human partnership](https://www.nature.com/articles/s41467-024-48534-4), Snapp et al., Nature Communications 2024 | [bibtex](./citations/superlative_me.txt)
 - [DfAM: Leveraging Generative Design in Design for Additive Manufacturing](https://mightybucket.github.io/projects/2021/05/31/masters-dissertation.html), Zhang et al. Master’s Project
 - [BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry](https://arxiv.org/abs/2401.15563), Xu et al., SIGGRAPH 2024 | [github](https://github.com/samxuxiang/BrepGen) | [bibtex](./citations/brepGen.txt)
-
+- [Physically Compatible 3D Object Modeling from a Single Image](https://arxiv.org/abs/2405.20510v1), Guo et al., arxiv 2024 | [bibtext](./citations/physically_3d.txt)
 
 </details>
 
@@ -143,8 +143,8 @@ A curated list of awesome engineer design papers, inspired by [awesome-aigc-3d](
 
 ## Notes
 
-- [AirfoilDesign](http://aero-comlab.stanford.edu/aa200b/lect_notes/AirfoilDesign.pdf), Stanford
-- [Zuokui Jun's Blog](https://zuokuijun.github.io/#/), NWPU
+- [physics-based deep learning](https://physicsbaseddeeplearning.org/intro.html), Thuerey et al., WWW 2021 | [bibtex](./citations/pbdl.txt)
+- [Autodesk’s AI Innovations Transforming Sustainable Design and Construction](https://www.research.autodesk.com/blog/autodesks-ai-innovations-transforming-sustainable-design-and-construction/), Autodesk
 
 ## License 
 Awesome Engineer Design is released under the [MIT license](./LICENSE).
