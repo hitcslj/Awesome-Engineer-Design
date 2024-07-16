@@ -1,12 +1,12 @@
-# Awesome-Airfoil-Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](https://github.com/hitcslj/Awesome-AIGC-3D).
+# Awesome-Engineer-Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A curated list of awesome engineer design papers, inspired by [awesome-aigc-3d](https://github.com/hitcslj/Awesome-AIGC-3D).
 
 
 <img src="./asset/xfoil.png" width="696px">
  
 
 
-#### [How to submit a pull request?](https://github.com/hitcslj/awesome-airfoil-design/blob/main/how-to-PR.md)
+#### [How to submit a pull request?](https://github.com/hitcslj/Awesome-Engineer-Design/blob/main/how-to-PR.md)
 
 
 
@@ -147,7 +147,7 @@ A curated list of awesome airfoil design papers, inspired by [awesome-aigc-3d](h
 - [Zuokui Jun's Blog](https://zuokuijun.github.io/#/), NWPU
 
 ## License 
-Awesome Aifoil Design is released under the [MIT license](./LICENSE).
+Awesome Engineer Design is released under the [MIT license](./LICENSE).
 
 ## Citation
 > TODO
