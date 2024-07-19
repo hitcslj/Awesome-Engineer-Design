@@ -98,7 +98,7 @@ A curated list of awesome engineer design papers, inspired by [awesome-aigc-3d](
 <summary>CAD Design</summary>
 
 - [BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry](https://arxiv.org/abs/2401.15563), Xu et al., SIGGRAPH 2024 | [github](https://github.com/samxuxiang/BrepGen) | [bibtex](./citations/brepGen.txt)
-- [TransCAD: A Hierarchical Transformer for CAD Sequence Inference from Point Clouds](https://arxiv.org/abs/2407.12702), Dupont et al., arxiv2024 | [bibtex](./citations/TransCAD.txt)
+- [TransCAD: A Hierarchical Transformer for CAD Sequence Inference from Point Clouds](https://arxiv.org/abs/2407.12702), Dupont et al., arxiv 2024 | [bibtex](./citations/TransCAD.txt)
 
 </details>
 
