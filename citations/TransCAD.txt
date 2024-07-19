@@ -1,0 +1,9 @@
+@misc{dupont2024transcadhierarchicaltransformercad,
+      title={TransCAD: A Hierarchical Transformer for CAD Sequence Inference from Point Clouds}, 
+      author={Elona Dupont and Kseniya Cherenkova and Dimitrios Mallis and Gleb Gusev and Anis Kacem and Djamila Aouada},
+      year={2024},
+      eprint={2407.12702},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.12702}, 
+}

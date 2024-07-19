@@ -95,6 +95,16 @@ A curated list of awesome engineer design papers, inspired by [awesome-aigc-3d](
 
 
 <details open>
+<summary>CAD Design</summary>
+
+- [BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry](https://arxiv.org/abs/2401.15563), Xu et al., SIGGRAPH 2024 | [github](https://github.com/samxuxiang/BrepGen) | [bibtex](./citations/brepGen.txt)
+- [TransCAD: A Hierarchical Transformer for CAD Sequence Inference from Point Clouds](https://arxiv.org/abs/2407.12702), Dupont et al., arxiv2024 | [bibtex](./citations/TransCAD.txt)
+
+</details>
+
+
+
+<details open>
 <summary>Other engineer design</summary>
 
 - [CreativeGAN: Editing Generative Adversarial Networks for Creative Design Synthesis](https://arxiv.org/abs/2103.06242), Nobari et al., IDETC-CIE 2021 | [github](https://github.com/mfrashad/creativegan) | [bibtex](./citations/creativegan.txt)
@@ -103,7 +113,6 @@ A curated list of awesome engineer design papers, inspired by [awesome-aigc-3d](
 - [Using Graph Neural Networks for Additive Manufacturing](https://developer.nvidia.com/blog/using-graph-neural-networks-for-additive-manufacturing/), Jain et al., NVIDIA
 - [Superlative mechanical energy absorbing efficiency discovered through self-driving lab-human partnership](https://www.nature.com/articles/s41467-024-48534-4), Snapp et al., Nature Communications 2024 | [bibtex](./citations/superlative_me.txt)
 - [DfAM: Leveraging Generative Design in Design for Additive Manufacturing](https://mightybucket.github.io/projects/2021/05/31/masters-dissertation.html), Zhang et al. Master’s Project
-- [BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry](https://arxiv.org/abs/2401.15563), Xu et al., SIGGRAPH 2024 | [github](https://github.com/samxuxiang/BrepGen) | [bibtex](./citations/brepGen.txt)
 - [Physically Compatible 3D Object Modeling from a Single Image](https://arxiv.org/abs/2405.20510v1), Guo et al., arxiv 2024 | [bibtext](./citations/physically_3d.txt)
 
 </details>
