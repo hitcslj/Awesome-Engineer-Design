@@ -12,13 +12,19 @@ A curated list of awesome engineer design papers, inspired by [awesome-aigc-3d](
 
 ## Table of Contents
 
-- [Survey](#survey) 
-- [Papers](#papers)
-- [Benchmarks and Datasets](#Benchmarks-and-Datasets)
-- [Talks](#talks)
-- [Company, Team and Experts](#Company&Team&Experts)
-- [Implementations](#implementations)
-- [Notes](#notes)
+- [Awesome-Engineer-Design ](#awesome-engineer-design-)
+      - [How to submit a pull request?](#how-to-submit-a-pull-request)
+  - [Table of Contents](#table-of-contents)
+  - [Survey](#survey)
+  - [Papers](#papers)
+  - [Benchmarks and Datasets](#benchmarks-and-datasets)
+  - [Talks](#talks)
+  - [Company\&Team\&Experts](#companyteamexperts)
+  - [Implementations](#implementations)
+  - [Notes](#notes)
+  - [License](#license)
+  - [Citation](#citation)
+  - [Contact](#contact)
 
 ## Survey
 
@@ -99,7 +105,7 @@ A curated list of awesome engineer design papers, inspired by [awesome-aigc-3d](
 
 - [BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry](https://arxiv.org/abs/2401.15563), Xu et al., SIGGRAPH 2024 | [github](https://github.com/samxuxiang/BrepGen) | [bibtex](./citations/brepGen.txt)
 - [TransCAD: A Hierarchical Transformer for CAD Sequence Inference from Point Clouds](https://arxiv.org/abs/2407.12702), Dupont et al., arxiv 2024 | [bibtex](./citations/TransCAD.txt)
-
+- [SolidGen: An Autoregressive Model for Direct B-rep Synthesis](https://arxiv.org/abs/2203.13944), Jayaraman etal., TMLR 2023 | [bibtex](./citations/SolidGen.txt)
 </details>
 
 

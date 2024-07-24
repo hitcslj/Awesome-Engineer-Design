@@ -1,0 +1,9 @@
+@misc{jayaraman2023solidgenautoregressivemodeldirect,
+      title={SolidGen: An Autoregressive Model for Direct B-rep Synthesis}, 
+      author={Pradeep Kumar Jayaraman and Joseph G. Lambourne and Nishkrit Desai and Karl D. D. Willis and Aditya Sanghi and Nigel J. W. Morris},
+      year={2023},
+      eprint={2203.13944},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2203.13944}, 
+}
