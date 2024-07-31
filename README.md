@@ -146,7 +146,7 @@ A curated list of awesome engineer design papers, inspired by [awesome-aigc-3d](
 - [Wei Chen](https://scholar.google.com/citations?hl=en&user=UlTyOWMAAAAJ&view_op=list_works&sortby=pubdate), UMD
 - [Extrality](https://github.com/Extrality)
 - [AutoDesk](https://www.autodesk.com/design-make/emerging-tech/generative-design)
-
+- [Zoo: Building Infrastructure for Hardware Designers](https://github.com/kittycad)
 
 ## Implementations
 
@@ -155,6 +155,7 @@ A curated list of awesome engineer design papers, inspired by [awesome-aigc-3d](
 - [adflow](https://github.com/mdolab/adflow), Mader et al., JAIS 2020 | [bibtex](./citations/adflow.txt)
 - [airfoil-interpolation](https://github.com/IDEALLab/airfoil-interpolation), Chen 
 - [Anton: generative design framework](https://github.com/blender-for-science/anton)
+- [text-to-CAD](https://zoo.dev/text-to-cad), Zoo et al., | [github](https://github.com/KittyCAD/text-to-cad-ui)
 
 ## Notes
 
