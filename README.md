@@ -18,6 +18,7 @@ A curated list of awesome engineer design papers, inspired by [awesome-aigc-3d](
   - [Survey](#survey)
   - [Papers](#papers)
   - [Benchmarks and Datasets](#benchmarks-and-datasets)
+  - [Challenges](#Challenges)
   - [Talks](#talks)
   - [Company\&Team\&Experts](#companyteamexperts)
   - [Implementations](#implementations)
@@ -133,6 +134,9 @@ A curated list of awesome engineer design papers, inspired by [awesome-aigc-3d](
 - [BigFoil](https://www.bigfoil.com/)
 - [G2Aero](https://arxiv.org/abs/2208.04743), Grey et al., JCDE 2023 | [github](https://github.com/NREL/G2Aero) | [bibtex](./citations/g2aero.txt)
  
+## Challenges
+
+- [NeurIPS2024-ML4CFD-competition](https://github.com/IRT-SystemX/NeurIPS2024-ML4CFD-competition-Starting-Kit)
 
 
 ## Talks
