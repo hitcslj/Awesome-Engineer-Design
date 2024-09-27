@@ -1,0 +1,9 @@
+@misc{khan2024text2cadgeneratingsequentialcad,
+      title={Text2CAD: Generating Sequential CAD Models from Beginner-to-Expert Level Text Prompts}, 
+      author={Mohammad Sadil Khan and Sankalp Sinha and Talha Uddin Sheikh and Didier Stricker and Sk Aziz Ali and Muhammad Zeshan Afzal},
+      year={2024},
+      eprint={2409.17106},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2409.17106}, 
+}

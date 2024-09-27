@@ -107,6 +107,8 @@ A curated list of awesome engineer design papers, inspired by [awesome-aigc-3d](
 - [BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry](https://arxiv.org/abs/2401.15563), Xu et al., SIGGRAPH 2024 | [github](https://github.com/samxuxiang/BrepGen) | [bibtex](./citations/brepGen.txt)
 - [TransCAD: A Hierarchical Transformer for CAD Sequence Inference from Point Clouds](https://arxiv.org/abs/2407.12702), Dupont et al., arxiv 2024 | [bibtex](./citations/TransCAD.txt)
 - [SolidGen: An Autoregressive Model for Direct B-rep Synthesis](https://arxiv.org/abs/2203.13944), Jayaraman etal., TMLR 2023 | [bibtex](./citations/SolidGen.txt)
+- [Text2CAD: Generating Sequential CAD Models from Beginner-to-Expert Level Text Prompts](https://arxiv.org/abs/2409.17106), Mohammad et al., NeurIPS 2024 | [bibtext](./citations/text2cad.txt)
+
 </details>
 
 
@@ -122,6 +124,7 @@ A curated list of awesome engineer design papers, inspired by [awesome-aigc-3d](
 - [DfAM: Leveraging Generative Design in Design for Additive Manufacturing](https://mightybucket.github.io/projects/2021/05/31/masters-dissertation.html), Zhang et al. Master’s Project
 - [Physically Compatible 3D Object Modeling from a Single Image](https://arxiv.org/abs/2405.20510v1), Guo et al., arxiv 2024 | [bibtext](./citations/physically_3d.txt)
 
+
 </details>
 
 
@@ -133,6 +136,7 @@ A curated list of awesome engineer design papers, inspired by [awesome-aigc-3d](
 - [UIUC Airfoil data](https://m-selig.ae.illinois.edu/ads_barton.html)
 - [BigFoil](https://www.bigfoil.com/)
 - [G2Aero](https://arxiv.org/abs/2208.04743), Grey et al., JCDE 2023 | [github](https://github.com/NREL/G2Aero) | [bibtex](./citations/g2aero.txt)
+- [AFBench](https://arxiv.org/abs/2406.18846), Liu et al., NeurIPS 2024 | [github](https://github.com/open-sciencelab/Intern-WingWing) | [bibtex](./citations/afbench.txt)
  
 ## Challenges
 

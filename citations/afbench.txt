@@ -1,0 +1,9 @@
+@misc{liu2024afbenchlargescalebenchmarkairfoil,
+      title={AFBench: A Large-scale Benchmark for Airfoil Design}, 
+      author={Jian Liu and Jianyu Wu and Hairun Xie and Guoqing Zhang and Jing Wang and Wei Liu and Wanli Ouyang and Junjun Jiang and Xianming Liu and Shixiang Tang and Miao Zhang},
+      year={2024},
+      eprint={2406.18846},
+      archivePrefix={arXiv},
+      primaryClass={cs.CE},
+      url={https://arxiv.org/abs/2406.18846}, 
+}
